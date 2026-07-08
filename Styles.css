@@ -10,3 +10,7 @@ a:visiited{
 a:hover{
     color: green;
 }
+
+a: body{
+    background-color: wheat;
+}
