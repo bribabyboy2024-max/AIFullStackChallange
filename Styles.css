@@ -1,4 +1,12 @@
 a {
-    /* customize the color for your links */
-    color: "Orange"
+    text-decoration: none;
+    color: Orange;
+}
+
+a:visiited{
+    color: red;
+}
+
+a:hover{
+    color: blue;
 }
